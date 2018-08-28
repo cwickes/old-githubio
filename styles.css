@@ -2,10 +2,16 @@ nav {
 	background-color: powderblue;
 }
 
+nav ul {
+	list-style-type: none;
+}
+
 nav ul li {
 	display: inline;
 }
 
 nav ul li a {
 	display: block;
+	text-decoration: none;
+	color: black;
 }
