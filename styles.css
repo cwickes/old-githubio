@@ -14,4 +14,9 @@ nav ul li a {
 	display: block;
 	text-decoration: none;
 	color: black;
+	text-align: center;
+}
+
+nav ul li a {
+	background-color: #9ec9cf;
 }
